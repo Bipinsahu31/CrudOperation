@@ -1,11 +1,6 @@
 {
   "users": [
     {
-      "title": "react js",
-      "discription": "front end",
-      "id": 5
-    },
-    {
       "title": "JavaScript",
       "discription": "library",
       "id": 6
@@ -14,6 +9,11 @@
       "title": "Bipin",
       "discription": "Hii my name is Bipin",
       "id": 7
+    },
+    {
+      "title": "ReactJS",
+      "discription": "Hiii am a Javascript library ",
+      "id": 8
     }
   ]
 }
