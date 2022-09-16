@@ -50,7 +50,7 @@ const EditUser = () => {
           </label>
           <input
             className="border-[1px] px-2 py-1 m-1 rounded-lg text-[20px] text-black outline-none"
-            type="number"
+            type="text"
             placeholder="Enter your Discription"
             value={discription}
             onChange={e => setdiscription(e.target.value)}
