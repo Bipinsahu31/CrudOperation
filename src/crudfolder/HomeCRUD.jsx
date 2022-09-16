@@ -31,12 +31,12 @@ const HomeCRUD = () => {
       <ul className="flex w-[90%] justify-evenly items-center h-[80px] m-auto">
         <li>
           <Link to="/users" className="text-2xl text-red-500 font-bold">
-            New Post
+          Published
           </Link>
         </li>
         <li>
           <Link to="/create-users" className="text-2xl text-red-500 font-bold">
-            Published
+            New Post
           </Link>
         </li>
       </ul>
